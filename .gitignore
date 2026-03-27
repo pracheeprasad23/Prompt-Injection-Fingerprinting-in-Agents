@@ -1,0 +1,19 @@
+# Model artifacts
+classifier_model/saved_model_artifacts.zip
+Prompt_INJECTION_And_Benign_DATASET/
+augment_dataset.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
