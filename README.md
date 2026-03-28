@@ -1,6 +1,6 @@
-# Project 2 Paper — File Guide (Concise)
+# Understanding File Structures
 
-This README summarizes all project files except those explicitly ignored by `.gitignore` patterns (for example `Prompt_INJECTION_And_Benign_DATASET/`, `augment_dataset.py`, caches, IDE, venv).
+This README summarizes all project files and the data flow from start to the end of the project.
 
 ## Core Project Philosophy & Collaboration Points
 
